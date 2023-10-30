@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2ibsahqwcec4ssvr?svg=true)](https://ci.appveyor.com/project/SVVerbovskiy/react-homework-1-1)
+
+
 ## Домашняя работа «Страница интернет-магазина (функциональный компонент)»
 
 Необходимо создать React-компонент `ShopItemFunc` (функциональный компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
